@@ -9,10 +9,10 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://www.dropbox.com/s/6bgq8t6yextloqp/export.pkl?raw=1'
-export_file_name = 'export.pkl'
+export_file_url = 'https://www.dropbox.com/s/r79o6je3yj2rwss/stage-2.pth?dl=0'
+export_file_name = 'stage-2.pth'
 
-classes = ['black', 'grizzly', 'teddys']
+classes = ['tigris', 'uncia', 'pardes']
 path = Path(__file__).parent
 
 app = Starlette()
