@@ -18,5 +18,6 @@ Here is the link to my model:
 
 The notebook where Ive trained the model is also included in this repo. I make changes to this file as I update the code. 
 
+### https://github.com/RJSD3V/fastai-v3/blob/master/Classifying_Spotted_Big_Cats.ipynb
 
 
